@@ -84,3 +84,4 @@ if __name__ == '__main__':
     nums = [num for num in range(1, 101)]
     target = 1000
     Partition(nums, target).main()
+
